@@ -1,3 +1,5 @@
 .venv/
 .cache/
 basic.py
+runtime-log.txt
+__pycache__/
